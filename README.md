@@ -13,6 +13,7 @@ PC RESOLUTION:
 ![image](https://user-images.githubusercontent.com/61715137/224713980-0df3bf35-8a7f-4eab-aae8-f12a7b9e942f.png)
 
 MOBILE RESOLUTION:
+
 ![image](https://user-images.githubusercontent.com/61715137/224714232-5bee1fef-3706-4701-94b6-d265ecf651b6.png)
 ![image](https://user-images.githubusercontent.com/61715137/224714263-a384e1a4-fcf0-4ea8-b28f-55cedda0bc35.png)
 ![image](https://user-images.githubusercontent.com/61715137/224714294-d932be3a-19ca-4758-ad73-676d4e64265b.png)
